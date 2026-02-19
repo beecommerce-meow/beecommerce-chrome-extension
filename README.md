@@ -1,4 +1,4 @@
-# BeeCommerce — Multi-Supplier Product Pipeline → Shopify
+# BeeCommerce — Multi-Supplier → Shopify
 
 Link
 <img width="1495" height="801" alt="Screenshot 2026-02-15 203250" src="https://github.com/user-attachments/assets/cbdecd6f-3879-41d9-b1f0-115d0de4e6cf" />
