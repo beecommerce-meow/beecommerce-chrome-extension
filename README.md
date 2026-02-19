@@ -96,40 +96,7 @@ This allows multi-supplier experimentation without locking data to one platform.
 * Shopify Admin API
 * Supplier connectors (AliExpress, CSV, manual capture, research imports)
 
----
 
-## 📊 Data Model (Simplified)
-
-**Product**
-
-* Source (AliExpress / Amazon / CSV / API)
-* Supplier URL
-* Cost
-* Normalized data
-* Pricing result
-* Shopify product ID
-* Status
-
-**Order**
-
-* Shopify order ID
-* Supplier reference
-* Fulfillment status
-* Tracking info
-
-This separation enables re-pricing, re-publishing, and multi-store workflows.
-
----
-
-## 🔐 Security Approach
-
-* Firebase authentication
-* Owner-scoped data
-* Environment-based integrations
-* Template/demo builds use separate projects
-* No supplier credentials included in public versions
-
----
 
 ## 🧪 Project Status
 
