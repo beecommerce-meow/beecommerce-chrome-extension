@@ -51,35 +51,6 @@ Converts normalized products into Shopify listings:
 
 BeeCommerce tracks publish status and links each record to its Shopify product ID.
 
----
-
-### 📬 Order Operations
-
-* Centralized order dashboard
-* Supplier reference per order
-* Purchase checklist
-* Tracking number management
-* Status timeline
-
-Orders flow from Shopify back into BeeCommerce for fulfillment management.
-
----
-
-## 🧠 Core Concept
-
-BeeCommerce is not a storefront builder or a supplier scraper.
-
-It is a **product pipeline system** that:
-
-1. Imports supplier products
-2. Normalizes product data
-3. Applies pricing logic
-4. Publishes to Shopify
-5. Tracks fulfillment workflow
-
-This allows multi-supplier experimentation without locking data to one platform.
-
----
 
 ## 🏗 Architecture
 
@@ -98,28 +69,6 @@ This allows multi-supplier experimentation without locking data to one platform.
 
 
 
-## 🧪 Project Status
-
-Active personal MVP focused on:
-
-* Multi-supplier product pipelines
-* Pricing automation
-* Publishing workflows
-* Fulfillment visibility
-
----
-
-## 🗺 Roadmap
-
-* Supplier connector expansion
-* Background job queue
-* Bulk automation rules
-* Analytics layer
-* Team roles & permissions
-* Public template modules
-
----
-
 ## 📸 Demo
 
 Live demo available via Base44 publish link.
@@ -130,15 +79,6 @@ Screenshots and workflow walkthrough included in this repository.
 ## ☕ Support
 
 If you find BeeCommerce interesting, you can support development via Ko-fi.
-
----
-
-## 📄 License
-
-This repository is for showcase and educational purposes.
-Core production logic and integrations are not fully open-sourced.
-
-Users are responsible for complying with supplier platform policies and regional regulations when adapting workflows.
 
 ---
 
