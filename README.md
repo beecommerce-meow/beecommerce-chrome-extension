@@ -1,5 +1,9 @@
 # BeeCommerce — Multi-Supplier Product Pipeline → Shopify
 
+Link
+<img width="1495" height="801" alt="Screenshot 2026-02-15 203250" src="https://github.com/user-attachments/assets/cbdecd6f-3879-41d9-b1f0-115d0de4e6cf" />
+
+
 BeeCommerce is a dropshipping operations platform designed to move products from **multiple supplier sources (AliExpress, Amazon research, CSV, APIs) → BeeCommerce → Shopify** through a clean, automated workflow.
 
 Built with **Base44 + Firebase**, BeeCommerce focuses on product normalization, pricing automation, and publishing workflows rather than replacing existing storefront platforms.
@@ -31,9 +35,6 @@ Supports importing products from:
 
 BeeCommerce stores supplier references and converts them into a standardized product structure.
 
----
-
-<img width="1495" height="801" alt="Screenshot 2026-02-15 203250" src="https://github.com/user-attachments/assets/cbdecd6f-3879-41d9-b1f0-115d0de4e6cf" />
 ---
 
 <img width="1470" height="792" alt="Screenshot 2026-02-15 203828" src="https://github.com/user-attachments/assets/ae87ef81-b129-4eaa-9d1a-4b936a1dc427" />
