@@ -79,6 +79,7 @@ Screenshots and workflow walkthrough included in this repository.
 
 ## ☕ Support
 
+
 If you find BeeCommerce interesting, you can support development via Ko-fi.
 
 ---
@@ -87,3 +88,9 @@ If you find BeeCommerce interesting, you can support development via Ko-fi.
 <img width="1488" height="793" alt="Screenshot 2026-02-15 203303" src="https://github.com/user-attachments/assets/91fe50c3-dcbe-49d4-bbb1-80dfcac09f2d" />
 
 <img width="1515" height="806" alt="Screenshot 2026-02-15 203409" src="https://github.com/user-attachments/assets/bdc83731-5c36-4202-bcdd-6953f992a49f" />
+
+<img width="1517" height="853" alt="Screenshot 2026-03-17 212334" src="https://github.com/user-attachments/assets/1766b6a9-1e93-4f8a-b2df-71deeffb213a" />
+
+<img width="1532" height="853" alt="Screenshot 2026-03-17 212357" src="https://github.com/user-attachments/assets/7e4ba4d4-4ced-4666-8465-c05bc91df263" />
+
+<img width="1493" height="798" alt="Screenshot 2026-03-17 212431" src="https://github.com/user-attachments/assets/12f94304-f741-4c04-9dc5-ae3a68d3a6b4" />
