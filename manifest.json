@@ -1,0 +1,74 @@
+{
+  "manifest_version": 3,
+  "name": "BeeCommerce Importer",
+  "version": "1.1.4",
+  "description": "Import products from supplier websites into BeeCommerce drafts.",
+
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+
+  "host_permissions": [
+    "https://*.aliexpress.us/*",
+    "https://*.aliexpress.com/*",
+    "https://www.amazon.com/*",
+    "https://www.amazon.co.th/*",
+    "https://www.amazon.co.jp/*",
+    "https://www.amazon.co.uk/*",
+    "https://www.makro.pro/*",
+    "https://*.makro.pro/*",
+    "https://*.lotuss.com/*",
+    "https://*.shopee.co.th/*",
+    "https://*.shopee.com/*",
+    "https://www.walmart.com/*",
+    "https://*.walmart.com/*",
+    "https://www.costco.com/*",
+    "https://*.costco.com/*",
+    "https://www.bigc.co.th/*",
+    "https://bigc.co.th/*",
+    "https://*.bigc.co.th/*",
+    "https://*.cloudfunctions.net/*",
+    "https://*.a.run.app/*",
+    "https://identitytoolkit.googleapis.com/*",
+    "https://securetoken.googleapis.com/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+    "default_title": "BeeCommerce Importer",
+    "default_popup": "popup.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.aliexpress.us/*",
+        "https://*.aliexpress.com/*",
+        "https://www.amazon.com/*",
+        "https://www.amazon.co.th/*",
+        "https://www.amazon.co.jp/*",
+        "https://www.amazon.co.uk/*",
+        "https://www.makro.pro/*",
+        "https://*.makro.pro/*",
+        "https://*.lotuss.com/*",
+        "https://*.shopee.co.th/*",
+        "https://*.shopee.com/*",
+        "https://www.walmart.com/*",
+        "https://*.walmart.com/*",
+        "https://www.costco.com/*",
+        "https://*.costco.com/*",
+        "https://www.bigc.co.th/*",
+        "https://bigc.co.th/*",
+        "https://*.bigc.co.th/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
